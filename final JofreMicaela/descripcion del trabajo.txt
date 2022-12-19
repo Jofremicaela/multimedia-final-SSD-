@@ -1,0 +1,1 @@
+En este trabajo utilizo los conceptos de grid, sass , flex-box, y agrego tambien animacion con kayframes, tambien se agregan iconos online
